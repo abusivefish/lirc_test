@@ -1,4 +1,4 @@
-# LzrFw
+# lirc_test
 
 **TODO: Add description**
 
